@@ -1,0 +1,84 @@
+E:\BBMSP\BBMSP\obj\Debug\BBMSP.csproj.AssemblyReference.cache
+E:\BBMSP\BBMSP\obj\Debug\BBMSP.csproj.SuggestedBindingRedirects.cache
+E:\BBMSP\BBMSP\obj\Debug\BBMSP.exe.config
+E:\BBMSP\BBMSP\obj\Debug\BBMSP.MainForm.resources
+E:\BBMSP\BBMSP\obj\Debug\BBMSP.Properties.Resources.resources
+E:\BBMSP\BBMSP\obj\Debug\BBMSP.csproj.GenerateResource.cache
+E:\BBMSP\BBMSP\obj\Debug\BBMSP.csproj.CoreCompileInputs.cache
+E:\BBMSP\BBMSP\bin\Debug\BBMSP.exe.config
+E:\BBMSP\BBMSP\bin\Debug\BBMSP.exe
+E:\BBMSP\BBMSP\bin\Debug\BBMSP.pdb
+E:\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+E:\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\BBMSP\BBMSP\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\BBMSP\BBMSP\bin\Debug\Bunifu.Core.dll
+E:\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+E:\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\BBMSP\BBMSP\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\BBMSP\BBMSP\obj\Debug\BBMSP.csproj.CopyComplete
+E:\BBMSP\BBMSP\obj\Debug\BBMSP.exe
+E:\BBMSP\BBMSP\obj\Debug\BBMSP.pdb
+E:\BBMSP\BBMSP\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+E:\BBMSP\BBMSP\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+E:\BBMSP\BBMSP\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+E:\BBMSP\BBMSP\bin\Debug\Microsoft.Web.WebView2.Core.dll
+E:\BBMSP\BBMSP\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+E:\BBMSP\BBMSP\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+E:\BBMSP\BBMSP\bin\Debug\Microsoft.Web.WebView2.Core.xml
+E:\BBMSP\BBMSP\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+E:\BBMSP\BBMSP\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+E:\BBMSP\BBMSP\obj\Debug\BBMSP.Login.resources
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\BBMSP.exe.config
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\BBMSP.exe
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\BBMSP.pdb
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu.Core.dll
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\obj\Debug\BBMSP.csproj.AssemblyReference.cache
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\obj\Debug\BBMSP.csproj.SuggestedBindingRedirects.cache
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\obj\Debug\BBMSP.exe.config
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\obj\Debug\BBMSP.MainForm.resources
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\obj\Debug\BBMSP.Login.resources
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\obj\Debug\BBMSP.Properties.Resources.resources
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\obj\Debug\BBMSP.csproj.GenerateResource.cache
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\obj\Debug\BBMSP.csproj.CoreCompileInputs.cache
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\obj\Debug\BBMSP.csproj.CopyComplete
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\obj\Debug\BBMSP.exe
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\obj\Debug\BBMSP.pdb
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\obj\Debug\BBMSP.csproj.ResolveComReference.cache
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\obj\Debug\BBMSP.Manager.resources
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\BBMS_DB.mdf
+D:\Apps\Programming\Visual Studio\Projects\BBMSP\BBMSP\bin\Debug\BBMS_DB_log.ldf
